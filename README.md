@@ -1,23 +1,24 @@
 # 30Days-ofNode
 
-** Day 3 of #30DaysOfNode: Intro to Modules and CRUD Operations in fs**
+<strong><strong>Day 3 of #30DaysOfNode: Intro to Modules and CRUD Operations in </strong></strong>
 
 Today, I learned the concept of Modules in NodeJS and do some hands-on in the fs core module system by Creating, Reading, Updating, Deleting, and Renaming the file.
 
 
 
-1)What are Modules?
+<strong>1)What are Modules?</strong>
 -->In Node.js, modules refer to reusable code units that can be used in different parts of a program. They help to organize code into smaller, more manageable pieces, making it easier to maintain and debug applications.
 
 
 
-2)Types of the module
+<strong>2)Types of the module</strong>
 -->There are two types of modules; Core and Local.
-***Core modules: These are built-in modules that come bundled with Node.js and can be used without any additional installation. Examples of core modules include fs, HTTP, path, and os.
+
+Core modules: These are built-in modules that come bundled with Node.js and can be used without any additional installation. Examples of core modules include fs, HTTP, path, and os.
 
 
 
-3)CRUD Operations using the fs module
+<strong>3)CRUD Operations using the fs module</strong>
 -->It is performed in both ways; synchronously as well as asynchronously.
 
 
