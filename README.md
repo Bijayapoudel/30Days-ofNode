@@ -1,6 +1,6 @@
 # 30Days-ofNode
 
-<strong><strong>Day 3 of #30DaysOfNode: Intro to Modules and CRUD Operations in fs </strong></strong>
+<strong><strong>A)Day 3 of #30DaysOfNode: Intro to Modules and CRUD Operations in fs </strong></strong>
 
 Today, I learned the concept of Modules in NodeJS and do some hands-on in the fs core module system by Creating, Reading, Updating, Deleting, and Renaming the file.
 
@@ -42,7 +42,7 @@ i) I created a file named "new.js" and perform writeFile, appendFile and readFil
 <br>  
 
 
-***<strong><strong>Day 4 of #30DaysOfNode: Synchronous vs Asynchronous in Node, Asynchronous CRUD operation using fs Module, Concept of OS Module.</strong></strong>***
+***<strong><strong>B)Day 4 of #30DaysOfNode: Synchronous vs Asynchronous in Node, Asynchronous CRUD operation using fs Module, Concept of OS Module.</strong></strong>***
 
 
 Hey Folks,
