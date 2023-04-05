@@ -38,7 +38,9 @@ i) I created a file named "new.js" and perform writeFile, appendFile and readFil
 
 
 
-Day 4 of #30DaysOfNode: Synchronous vs Asynchronous in Node, Asynchronous CRUD operation using fs Module, Concept of OS Module.
+
+
+<strong><strong><strong>Day 4 of #30DaysOfNode: Synchronous vs Asynchronous in Node, Asynchronous CRUD operation using fs Module, Concept of OS Module.</strong></strong></strong>
 
 Hey Folks,
 ***Today I gotta know the basic differences between Synchronous and Asynchronous in Node. Here is what I knew :
