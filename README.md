@@ -36,5 +36,6 @@ b)Second, for Asynchronous:
 i) I created a file named "new.js" and perform writeFile, appendFile and readFile operations by importing the file system module; var fs=require('fs');
 [SAME AS ABOVE].
 
+![bjuu](https://user-images.githubusercontent.com/47923142/230116272-5324e51d-00f0-49cb-b903-3bc287e3d081.jpg)
 
 
