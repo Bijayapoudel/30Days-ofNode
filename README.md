@@ -1,6 +1,6 @@
 # 30Days-ofNode
 
-<strong><strong>Day 3 of #30DaysOfNode: Intro to Modules and CRUD Operations in </strong></strong>
+<strong><strong>Day 3 of #30DaysOfNode: Intro to Modules and CRUD Operations in fs </strong></strong>
 
 Today, I learned the concept of Modules in NodeJS and do some hands-on in the fs core module system by Creating, Reading, Updating, Deleting, and Renaming the file.
 
