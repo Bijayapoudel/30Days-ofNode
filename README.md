@@ -38,8 +38,9 @@ i) I created a file named "new.js" and perform writeFile, appendFile and readFil
 
 
 
-<p>
-<p>
+<br>
+<br>  
+
 
 ***<strong><strong>Day 4 of #30DaysOfNode: Synchronous vs Asynchronous in Node, Asynchronous CRUD operation using fs Module, Concept of OS Module.</strong></strong>***
 
@@ -91,6 +92,5 @@ Hey Folks,
 
 ![bjuu](https://user-images.githubusercontent.com/47923142/230118406-c3a757c7-e79a-43ac-be8e-7b5fc9da9483.jpg)
 
-</p>
-</p>
-
+</br>
+</br>
