@@ -36,6 +36,56 @@ b)Second, for Asynchronous:
 i) I created a file named "new.js" and perform writeFile, appendFile and readFile operations by importing the file system module; var fs=require('fs');
 [SAME AS ABOVE].
 
-![bjuu](https://user-images.githubusercontent.com/47923142/230116272-5324e51d-00f0-49cb-b903-3bc287e3d081.jpg)
+
+
+Day 4 of #30DaysOfNode: Synchronous vs Asynchronous in Node, Asynchronous CRUD operation using fs Module, Concept of OS Module.
+
+Hey Folks,
+***Today I gotta know the basic differences between Synchronous and Asynchronous in Node. Here is what I knew :
+
+--->Async is multi-thread, which means operations or programs can run in parallel. Sync is single-thread, so only one operation or program will run at a time.
+
+--->Async is non-blocking, which means it will send multiple requests to a server. Sync is blocking — it will only send the server one request at a time and will wait for that request to be answered by the server.
+
+--->Async increases throughput because multiple operations can run at the same time. Sync is slower and more methodical.
+
+
+
+***Did Basics Asynchronous CRUD Operation using file system Modules:
+--->Create a folder named "tmp". //Used mkdir command
+
+--->Create file names "bio.txt" inside "tmp" folder. //Used writeFile command
+
+--->Append the data.
+//Used appendFile command
+
+--->Read the data without getting the buffer data at first. //Used readFile command to read and "utf-8" to prevent buffering of data
+
+--->Rename the file "bio.txt" into "mybio.txt". //Used rename command
+
+--->Delete the folder and the file;"tmp" as well as "mybio.txt". // used rmdir command to delete the folder and unlink command to delete the file
+
+
+
+***Used OS Module to get the OS info:
+--->The OS module is a built-in core module and provides developers with functions to retrieve information about the computer and its operating system and help in interaction.
+
+--->Here are some of the commonly used methods and properties in 'os' module:
+
+1)os.arch(): Returns the CPU architecture of the operating system.
+
+2)os.cpus(): Returns an array of objects containing information about each logical CPU core on the system.
+
+3)os.freemem(): Returns the amount of free system memory in bytes.
+
+4)os.homedir(): Returns the home directory of the current user.
+
+5)os.hostname(): Returns the hostname of the operating system.
+
+
+
+
+![bjuu](https://user-images.githubusercontent.com/47923142/230118406-c3a757c7-e79a-43ac-be8e-7b5fc9da9483.jpg)
+
 
 
